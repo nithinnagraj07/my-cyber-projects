@@ -1,0 +1,3 @@
+# Nmap 7.98 scan initiated Mon Feb 16 22:29:56 2026 as: nmap -sV -Pn -p- -T4 -oN fakebank_recon.txt10.48.182.205
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Mon Feb 16 22:29:56 2026 -- 0 IP addresses (0 hosts up) scanned in 0.13 seconds
